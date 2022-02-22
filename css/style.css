@@ -1,0 +1,9 @@
+.post {
+    background-color: bisque;
+    border: 3px solid rgb(12, 238, 133);
+    border-radius: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    margin: 15px;
+    padding: 15px;
+}
